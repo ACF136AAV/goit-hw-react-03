@@ -1,0 +1,7 @@
+.search-input{
+    border: 1px solid rgb(99, 81, 81);
+        border-radius: 20px;
+        width: 300px;
+        height: 30px;
+    text-align: center;
+}
